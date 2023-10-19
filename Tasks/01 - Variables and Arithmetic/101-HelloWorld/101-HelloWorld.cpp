@@ -9,6 +9,7 @@ int main()
 {
     //Write Hello World to the terminal with puts  ("put string")
     puts("Hello World");
+    puts("***********")
 
     /*
         TASK: Add two more lines of code to the above so that the output reads as follows:
